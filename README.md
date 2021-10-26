@@ -15,3 +15,10 @@
 * [A Journal Covering the Theoritical Grounds](https://www.ijera.com/papers/Vol3_issue5/DI35605610.pdf)
 <hr>
 
+### 1. Logistic Regression 
+
+##### A proecedural implementation of logistic regression classifier to classify the strength of password as either weak, medium or strong.   
+[View Content](hhttps://github.com/prakriti42/ML-Algorithms-/tree/main/Logistic%20Regression)
+
+<hr>
+
