@@ -15,7 +15,17 @@
 * [A Journal Covering the Theoritical Grounds](https://www.ijera.com/papers/Vol3_issue5/DI35605610.pdf)
 <hr>
 
-### 1. Logistic Regression 
+### 2. Multivariate Regression 
+
+##### An implementation of the foundational regression algorithm to to predict the medical charges based on the patients' age , sex , children , region and charges along with the use of the optimization algorithm i.e. gradient descent with the learning rate of 0.0001 over 10000 iterations.  
+[View Content](https://github.com/prakriti42/ML-Algorithms-/tree/main/Logistic%20Regression)
+
+### 2.1 Dataset Used
+[Fill View Content](https://github.com/prakriti42/ML-Algorithms-/tree/main/Logistic%20Regression)
+
+<hr>
+
+### 3. Logistic Regression 
 
 ##### A procedural implementation of logistic regression classifier to classify the strength of password as either weak, medium or strong.   
 [View Content](https://github.com/prakriti42/ML-Algorithms-/tree/main/Logistic%20Regression)
