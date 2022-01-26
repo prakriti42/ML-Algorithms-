@@ -6,7 +6,7 @@
 
 ##### A reported understanding of this supervised ML algorithm along with its scratch implementation on iris dataset for classification.
 
-[View Content](https://github.com/prakriti42/ML-Algorithms-/tree/main/KNN)
+[View Implementation](https://github.com/prakriti42/ML-Algorithms-/tree/main/KNN)
 
 ### 1.1 Resources Utilized 
 * [Youtube Video Tutorial](https://www.youtube.com/watch?v=6kZ-OPLNcgE&t=906s) <br>
@@ -18,17 +18,17 @@
 ### 2. Multivariate Regression 
 
 ##### An implementation of the foundational regression algorithm to to predict the medical charges based on the patients' age , sex , children , region and charges along with the use of the optimization algorithm i.e. gradient descent with the learning rate of 0.0001 over 10000 iterations.  
-[View Content](https://github.com/prakriti42/ML-Algorithms-/tree/main/Logistic%20Regression)
+[View Implementation](https://github.com/prakriti42/ML-Algorithms-/blob/main/Multivariate%20Regression/REGRESSION%20TASK.ipynb)
 
 ### 2.1 Dataset Used
-[Fill View Content](https://github.com/prakriti42/ML-Algorithms-/tree/main/Logistic%20Regression)
+[Go to Dataset](https://github.com/prakriti42/ML-Algorithms-/blob/main/Multivariate%20Regression/MedicalInsurance.csv)
 
 <hr>
 
 ### 3. Logistic Regression 
 
 ##### A procedural implementation of logistic regression classifier to classify the strength of password as either weak, medium or strong.   
-[View Content](https://github.com/prakriti42/ML-Algorithms-/tree/main/Logistic%20Regression)
+[View Implementation](https://github.com/prakriti42/ML-Algorithms-/tree/main/Logistic%20Regression)
 
 <hr>
 
