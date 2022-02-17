@@ -32,3 +32,8 @@
 
 <hr>
 
+### 3. Gradient Descent 
+
+##### A simple and scratch implementation of the gradient descent optimization algorithm for finding the optimal value of m and b for a predictive function under the Linear Regression algorithm.  
+[View Implementation]()
+
