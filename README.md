@@ -37,3 +37,9 @@
 ##### A simple scratch implementation of the gradient descent optimization algorithm for finding the optimal value of m and b for a predictive function under the Linear Regression algorithm.  
 [View Implementation](https://github.com/prakriti42/ML-Algorithms-/blob/main/Gradient%20Descent/gradientdescent.py)
 <hr>
+
+### 3. Ordinary Least Squares 
+
+##### A simple implementation of the analytical approach for finding the parameters of the algorithm for finding the optimal value of m and b for a predictive function under the Simple Linear Regression algorithm.  
+[View Implementation](https://github.com/prakriti42/ML-Algorithms-/blob/main/)
+<hr>
