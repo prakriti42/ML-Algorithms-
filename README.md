@@ -43,3 +43,12 @@
 ##### A simple implementation of the analytical approach for finding the parameters of the algorithm to find the optimal value of m and b for a predictive function under the Simple Linear Regression algorithm.  
 [View Implementation](https://github.com/prakriti42/ML-Algorithms-/blob/main/Ordinary%20Least%20Squares/OLS.ipynb)
 <hr>
+
+
+### 5. ID3 Decision Tree 
+
+##### A simple implementation of the Decision Tree algorithm using the ID3 method.
+[View Implementation](https://github.com/prakriti42/ML-Algorithms-/blob/main/Decision%20Tree/ID3_DecisionTree%20.ipynb)
+<hr>
+
+
